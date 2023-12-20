@@ -17,6 +17,6 @@
 - The average number of patients requiring bolus dose in the FN group (11.4 ± 7.6) was less than in the Group F (20.8 ± 11.0) with p<0.05.
 - The percentage of satisfied patients was higher in group FN compared with Group F (77.1% and 62.9%, respectively, with p<0.05).
 
-## Objectives for this assignment:
+## Objective:
 1. Compare the effects of pain relief drugs - Fentanyl and Nepofam
 1.  Side-effect of Fentanyl and combined Fentanyl and Nepofam.
